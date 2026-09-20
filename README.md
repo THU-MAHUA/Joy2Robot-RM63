@@ -4,7 +4,7 @@ ROS 2 Xbox teleoperation, automatic pickup, hybrid force control, and
 demonstration recording for the RealMan RM63 robot arm.
 
 <p align="center">
-  <img src="docs/images/teleop.jpeg"
+  <img src="docs/images/webwxgetmsgimg.jpeg"
        alt="RealMan RM63 robot arm, gripper, work surface, and game controller used for teleoperation"
        width="620">
 </p>
